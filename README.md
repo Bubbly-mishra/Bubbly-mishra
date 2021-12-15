@@ -34,5 +34,5 @@
 
 <!-- <h2 align = "right">  Profile Visits: </h2> -->
 <h3 align=" right"> Profile Visits:</h3>
-<img align = "right" src='https://profile-counter.glitch.me/VivekSharma1007/count.svg' width='auto'>
+<img align = "right" src='https://profile-counter.glitch.me/Bubbly-mishra/count.svg' width='auto'>
 
