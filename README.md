@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bubbly-mishra.github.io/profile/](https://bubbly-mishra.github.io/profile/)
 
-- 💬 Ask me about **Core java, OOPS concepts**
+- 💬 Ask me about **Adv java, OOPS concepts, DS, algo**
 
 - 📫 How to reach me **babimishra@gmail.com**
 
