@@ -32,5 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bubbly-mishra&show_icons=true&theme=tokyonight" alt="bubbly-mishra" /></p>
 
 
-
+<!-- <h2 align = "right">  Profile Visits: </h2> -->
+<h3 align=" right"> Profile Visits:</h3>
+<img align = "right" src='https://profile-counter.glitch.me/VivekSharma1007/count.svg' width='auto'>
 
