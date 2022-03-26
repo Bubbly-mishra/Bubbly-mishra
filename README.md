@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Adv java, OOPS concepts, DS, algo**
 
-- 📫 How to reach me **babimishra@gmail.com**
+- 📫 How to reach me **babimishra002@gmail.com**
 
 - ⚡ Fun fact **Instead of the job I have, I’ve always dreamed of being an artist**
 
