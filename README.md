@@ -8,9 +8,6 @@
 - ⚡ Fun fact **Instead of the job I have, I’ve always dreamed of being an artist**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bubbly-mishra&show_icons=true&theme=tokyonight" alt="bubbly-mishra" /></p>
-
-
 <!-- <h2 align = "right">  Profile Visits: </h2> -->
 <h3 align=" right"> Profile Visits:</h3>
 <img align = "right" src='https://profile-counter.glitch.me/Bubbly-mishra/count.svg' width='auto'>
