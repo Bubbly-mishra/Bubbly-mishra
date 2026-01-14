@@ -6,8 +6,3 @@
 
 - ⚡ Fun fact **Instead of the job I have, I’ve always dreamed of being an artist**
 
-
-<!-- <h2 align = "right">  Profile Visits: </h2> -->
-<h3 align=" right"> Profile Visits:</h3>
-<img align = "right" src='https://profile-counter.glitch.me/Bubbly-mishra/count.svg' width='auto'>
-
